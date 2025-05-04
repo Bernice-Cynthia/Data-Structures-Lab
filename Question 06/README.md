@@ -1,0 +1,12 @@
+Write a C++ menu driven program to implement List ADT using a singly linked list. Maintain proper boundary conditions and follow good coding practices. The List ADT has the following operations:
+1. Insert Beginning
+2. Insert End
+3. Insert After
+4. Delete Beginning
+5. Delete End
+6. Delete Specific
+7. Search
+8. Display
+9. Display Reverse
+10. Reverse Link
+11.  Exit
