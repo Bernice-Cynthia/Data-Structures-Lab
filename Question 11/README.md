@@ -1,4 +1,4 @@
-A. Write a separate C++ menu-driven program to implement stack ADT using a character array of size 5. Maintain proper 
+Write a separate C++ menu-driven program to implement stack ADT using a character array of size 5. Maintain proper 
 boundary conditions and follow good coding practices. Stack ADT has the following operations,
 1. Push
 2. Pop
